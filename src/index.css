@@ -1,0 +1,10 @@
+/** @type {import('tailwindcss').Config} */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'pirulen';
+    src: url('./assets/pirulen.ttf') format("truetype");
+  }
